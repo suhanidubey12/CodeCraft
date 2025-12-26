@@ -31,6 +31,6 @@
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
 
 | Khushi Shorey | khushishorey | IIIT Allahabad |
-| ishan Raj Singh | ishanrajsingh | Amity Noida |
+| Ishan Raj Singh | ishanrajsingh | Amity Noida |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
